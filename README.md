@@ -3,37 +3,10 @@
 ## 🚀 About Me
 I'm a passionate **AI & Software Development enthusiast** currently pursuing **Software Development and Network Engineering** at Sheridan College. I enjoy solving real-world problems with **Machine Learning, AI, and Networking**. Looking for exciting opportunities to collaborate on innovative projects!
 
-## 🔧 Technical Skills
-- **AI & Machine Learning**: TensorFlow, PyTorch, NLP, Computer Vision
-- **Programming**: Python, Java, JavaScript, SQL, Assembly
-- **Data Science**: Data Preprocessing, Data Visualization (Matplotlib, Seaborn), Model Training
-- **Networking**: Cisco IOS, Network Security, Subnetting, Routing, VLANs
-- **Cloud Platforms**: AWS, Google Cloud, Azure
-- **Operating Systems**: Arch, Debian, Fedora, Red Hat, Windows, Mac
-- **Tools**: Wireshark, Packet Tracer, GitHub, IntelliJ, NetBeans
-
 ## 🎓 Education
 🎓 **Sheridan College**, Brampton, ON  
 📅 *Software Development and Network Engineering (Jan 2024 – Apr 2027)*  
 📌 GPA: 3.74 | *Preparing for CCNA Certification*
-
-## 🏆 Certifications
-- **Artificial Intelligence for Cybersecurity** – LinkedIn Learning *(Jan 2025)*
-- **Advanced Cisco Routing: OSPF** – LinkedIn Learning *(Nov 2024)*
-- **JavaScript Essential Training** – LinkedIn Learning *(May 2024)*
-
-## 💻 Projects
-### 📷 Image Classifier Using TensorFlow *(Mar 2024)*
-- Developed a deep learning model to classify emotions as Happy or Sad.
-- Achieved **86% accuracy** using a custom dataset of 500 images.
-
-### 🔬 8-Bit Adder Using Transistors *(Nov 2023 – Dec 2023)*
-- Designed and built an **8-bit adder circuit** using transistors.
-- Validated functionality across all 8-bit input combinations.
-
-### 🔔 Automated School Bell System *(June 2019 – July 2019)*
-- Built an **Arduino-based system** to automate school bell schedules for 1,000+ students.
-- Integrated an **LCD display** for real-time schedule tracking.
 
 ## 💼 Experience
 - **Mentor @ UTRA Hacks (Feb 2025)** – Guided robotics/software development teams.
@@ -45,6 +18,3 @@ I'm a passionate **AI & Software Development enthusiast** currently pursuing **S
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/somya-dwivedi)
 - 📧 somya.dwivedi@yahoo.com
-
-🚀 Always open to collaborations & learning opportunities! Let's connect and build something amazing. 😃
-
