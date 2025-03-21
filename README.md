@@ -12,4 +12,4 @@ I enjoy solving real-world problems with **Machine Learning, AI, and Networking*
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/somya-dwivedi)
-- 📧 somya.dwivedi@yahoo.com
+- 📧 [E-Mail](somya.dwivedi@yahoo.com)
