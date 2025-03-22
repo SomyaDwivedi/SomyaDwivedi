@@ -6,4 +6,4 @@ I enjoy solving real-world problems with **Machine Learning, AI, and Networking*
 - 💼 [LinkedIn](https://linkedin.com/in/somya-dwivedi)
 - 📧 [E-Mail](somya.dwivedi@yahoo.com)
 
-[![wakatime](https://wakatime.com/badge/user/4dac246d-8a22-44b2-8d38-dc7abce7644a.svg)](https://wakatime.com/@4dac246d-8a22-44b2-8d38-dc7abce7644a)
+[![wakatime](https://wakatime.com/badge/user/fc3cc070-0628-4110-9d5d-6b0d7436af69.svg)](https://wakatime.com/@fc3cc070-0628-4110-9d5d-6b0d7436af69)
